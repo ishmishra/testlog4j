@@ -1,0 +1,5 @@
+2018-02-27 21:50:45 INFO  TestLogging:29 - This is done to test info log
+2018-02-27 21:50:45 ERROR TestLogging:30 - This is done to test error log
+2018-02-27 21:50:45 DEBUG TestLogging:31 - This is done to test debug log
+2018-02-27 21:50:45 INFO  Application:14 - This log is being generated withing Application java class
+2018-02-27 21:50:45 INFO  Application:15 - This log also tells you the java class and the line number where this log is called- line 15
